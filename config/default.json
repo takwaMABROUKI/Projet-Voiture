@@ -1,0 +1,4 @@
+{
+  "mongoURI" :"mongodb+srv://takwamabrouki:laser1990@cluster0.cngco.mongodb.net/Voitures?retryWrites=true&w=majority", 
+  "jwtSecret": "mysecrettoken"
+}

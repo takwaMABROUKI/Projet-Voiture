@@ -1,0 +1,19 @@
+
+
+.comments{
+    /*margin-top: 50px;
+    margin: 50px 10px;*/
+    /*padding: 70px 50px;*/
+    border: 1px black;
+    /*display: flex;*/
+    flex-wrap: wrap;;
+    margin: 120px 50px;
+    
+}
+.comment{
+    margin:70px 70px;
+}
+.name{
+    font-weight: bold;
+    text-decoration: underline;
+}

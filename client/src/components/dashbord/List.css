@@ -1,0 +1,8 @@
+.voiture-list{
+    display: flex;
+    margin:70px;
+    margin-top: 90px;
+    /*padding: 0px 150px;*/
+    flex-wrap: wrap;
+    width:100%;
+}
